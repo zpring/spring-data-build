@@ -26,7 +26,7 @@
 	<parent>
 		<groupId>org.springframework.data.build</groupId>
 		<artifactId>spring-data-build</artifactId>
-		<version>3.5.14-SNAPSHOT</version>
+		<version>3.5.14</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
@@ -122,18 +122,18 @@
 		<kotlin-coroutines>1.9.0</kotlin-coroutines>
 		<logback>1.5.34</logback>
 		<microbenchmark>0.5.0.RELEASE</microbenchmark>
-		<micrometer>1.15.12</micrometer>
-		<micrometer-tracing>1.5.12</micrometer-tracing>
+		<micrometer>1.15.13</micrometer>
+		<micrometer-tracing>1.5.13</micrometer-tracing>
 		<mockito>5.23.0</mockito>
 		<mockk>1.13.17</mockk>
 		<querydsl>5.1.0</querydsl>
 		<reactive-streams>1.0.4</reactive-streams>
-		<reactor>2024.0.18</reactor>
+		<reactor>2024.0.19</reactor>
 		<rxjava2>2.2.21</rxjava2>
 		<rxjava3>3.1.12</rxjava3>
 		<smallrye-mutiny>1.10.0</smallrye-mutiny>
 		<slf4j>2.0.18</slf4j>
-		<spring>6.2.19</spring>
+		<spring>6.2.20</spring>
 		<spring-antora>0.0.4</spring-antora>
 		<maven-antora>1.0.0-alpha.5</maven-antora>
 		<spring-asciidoctor-backends.version>0.0.7</spring-asciidoctor-backends.version>
@@ -146,7 +146,7 @@
 		<webbeans>4.0.3</webbeans>
 
 		<!-- Used in asciidoc reference documentation -->
-		<releasetrain>2025.0.14-SNAPSHOT</releasetrain>
+		<releasetrain>2025.0.14</releasetrain>
 
 		<!-- To be overridden by individual modules -->
 		<java-module-name/>
@@ -473,7 +473,7 @@
 				<dependency>
 					<groupId>org.springframework.data.build</groupId>
 					<artifactId>spring-data-build-resources</artifactId>
-					<version>3.5.14-SNAPSHOT</version>
+					<version>3.5.14</version>
 					<type>zip</type>
 					<optional>true</optional>
 				</dependency>
@@ -775,7 +775,7 @@
 				<dependency>
 					<groupId>org.springframework.data.build</groupId>
 					<artifactId>spring-data-build-resources</artifactId>
-					<version>3.5.14-SNAPSHOT</version>
+					<version>3.5.14</version>
 					<type>zip</type>
 					<optional>true</optional>
 				</dependency>
