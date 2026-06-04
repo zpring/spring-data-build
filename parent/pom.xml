@@ -159,7 +159,7 @@
 
 		<documentation.baseurl>https://docs.spring.io</documentation.baseurl>
 		<documentation.spring-reference-url>${documentation.baseurl}/spring-framework/reference</documentation.spring-reference-url>
-		<documentation.spring-javadoc-url>${documentation.baseurl}/spring-framework/docs/${spring}/javadoc-api</documentation.spring-javadoc-url>
+		<documentation.spring-javadoc-url>${documentation.baseurl}/spring-framework/docs/6.2.x/javadoc-api</documentation.spring-javadoc-url>
 		<documentation.reactor-javadoc-url>https://projectreactor.io/docs/core/release/api</documentation.reactor-javadoc-url>
 		<documentation.reactive-streams-javadoc-url>https://www.reactive-streams.org/reactive-streams-${reactive-streams}-javadoc</documentation.reactive-streams-javadoc-url>
 		<documentation.rxjava3-javadoc-url>https://reactivex.io/RxJava/3.x/javadoc/${rxjava3}</documentation.rxjava3-javadoc-url>
